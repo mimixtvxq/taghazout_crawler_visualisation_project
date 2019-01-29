@@ -4,7 +4,7 @@ Project for Earth System Data Class - Profesor Angelo Pio Rossi at Jacobs Univer
 taghazout_surf_crawler.py contains the code for the crawler. The crawler is specifically designed for https://magicseaweed.com/spot-daily-history.php?spotId=131&month=1&day=30 .
 To retrieve data for another spot that is not Taghazout Beach, please alter the spotId accordingly.
 
-The inspiration behind this project is to aid Hakuna Matata Surf Hostel in Taghazout, Morocco with their operations due to personal connections with the owners, and the author's role as social media content manager in the business.
+As the author has a background in International Business, the project was selected in order to introduce elements of business decision making through the utilisation of earth system data. The inspiration behind this project is to aid Hakuna Matata Surf Hostel in Taghazout, Morocco with their operations due to personal connections with the owners, and the author's role as social media content manager in the business.
 
 taghazout_surf_data.csv contains the data returned from the utilisation of the crawler.
 
